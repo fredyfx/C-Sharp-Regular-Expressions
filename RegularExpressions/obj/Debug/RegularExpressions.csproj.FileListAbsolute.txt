@@ -1,0 +1,5 @@
+C:\Users\Fredy\SkyDrive\Dev\Regex\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\Users\Fredy\SkyDrive\Dev\Regex\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\Users\Fredy\SkyDrive\Dev\Regex\RegularExpressions\obj\Debug\RegularExpressions.csprojResolveAssemblyReference.cache
+C:\Users\Fredy\SkyDrive\Dev\Regex\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\Users\Fredy\SkyDrive\Dev\Regex\RegularExpressions\obj\Debug\RegularExpressions.pdb
